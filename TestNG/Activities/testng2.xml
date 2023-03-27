@@ -1,0 +1,12 @@
+<suite name="Suite">
+    <test name="Practice Grouping">
+        <groups>
+            <run>
+                <inlcude name="ButtonTests" />
+            </run>
+        </groups>
+        <classes>
+            <class name="TNG_Activity_5" />
+        </classes>
+    </test>
+</suite>
